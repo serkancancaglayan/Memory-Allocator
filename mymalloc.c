@@ -1,6 +1,5 @@
 /*
     Serkan Can Caglayan 
-    18120205021 
     26.03.2020
 */ 
 
